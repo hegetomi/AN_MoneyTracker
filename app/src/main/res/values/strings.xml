@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoneyTracker</string>
+    <string name="save">Save</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="setup_password">Please set up a password</string>
+    <string name="enter_password">Please enter your password</string>
+    <string name="balance">Balance:</string>
+    <string name="current_balance">Current balance:</string>
+    <string name="icon">icon</string>
+    <string name="wipe_data">Wipe data</string>
+    <string name="view_balance">View balance</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/view_balance"
+        android:title="@string/view_balance" />
+
+    <!--<item
+        android:id="@+id/change_password"
+        android:title="Change password" />-->
+
+    <item
+        android:id="@+id/wipe_data"
+        android:title="@string/wipe_data" />
+
+</menu>
